@@ -39,4 +39,7 @@ textsolarbi-usuga-ocampo/
 │   └── Parte_A_B_SolarBI.pdf
 └── sql/
     └── crear_tablas.sql
+    ## Forma de revisión
+
+Para revisar el proyecto se debe consultar la documentación ubicada en la carpeta docs y el script SQL ubicado en la carpeta sql.
 
