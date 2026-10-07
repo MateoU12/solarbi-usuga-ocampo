@@ -1,3 +1,6 @@
+-- Estructura de tablas para el proyecto SolarBI
+-- Esquema silver: almacenamiento de datos procesados.
+-- Esquema dwh: almacenamiento de información para análisis
 -- SOLARBI - Estructura de base de datos
 
 CREATE SCHEMA IF NOT EXISTS silver;
